@@ -1,0 +1,4 @@
+#Mon Jan 25 13:15:17 EET 2021
+base.0=/Users/GeorgiyDudar/Downloads/WeatherApp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
